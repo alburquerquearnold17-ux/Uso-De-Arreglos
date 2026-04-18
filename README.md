@@ -1,4 +1,4 @@
-# Uso-De-Arreglos
+# Uso-De-Arreglos Tarea #7
 Este programa lo que hace es guardar las notas de 20 estudiantes y saca el promedio de cada uno y del grupo entero y busca la nota más alta y la más bajita, y al final te dice quiénes pasan y quiénes se quemaron todo usando arreglos y bucles para que quede organizado y fácil de manejar.
 
 EJEMPLOS DE ENTRADA:
